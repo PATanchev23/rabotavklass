@@ -8,14 +8,24 @@ int main() {
     Library lib;
 
     lib.name = "My Library";
-
-    lib.count = 2;
+    cout << "Enter the amount of books: ";
+    cin >> lib.count;
 
     lib.books = new Book[lib.count];
 
-    lib.books[0] = createBook("1984", "George Orwell", 1949, 15.50);
+    //template: lib.books[0] = createBook("1984", "George Orwell", 1949, 15.50);
 
-    lib.books[1] = createBook("Dune", "Frank Herbert", 1965, 22.00);
+    for (int i = 0; i < lib.count; i++) {
+        cout << "\nEnter the book's title: ";
+        cin >> lib.books[i].title;
+        cout << "\nEnter the book's author: ";
+        cin >> lib.books[i].author;
+        cout << "\nEnter the book's year: ";
+        cin >> lib.books[i].year;
+        cout << "\nEnter the book's price: ";
+        cin >> lib.books[i].price;
+        lib.books[i] = createBook(lib.books[i].title, lib.books[i].author, lib.books[i].year, lib.books[i].price);
+    }
 
     printLibrary(lib);
 

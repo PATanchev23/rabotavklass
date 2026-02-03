@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|solutionrelative:library\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C69EEE68-301C-4DC3-A036-6B8D68759986}|project\\project.vcxproj|C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C69EEE68-301C-4DC3-A036-6B8D68759986}|project\\project.vcxproj|solutionrelative:project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|solutionrelative:library\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01B26045-0C6A-4503-BE26-42A354AC0BAA}|library\\library.vcxproj|solutionrelative:library\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,38 +30,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "library.h",
               "DocumentMoniker": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.h",
               "RelativeDocumentMoniker": "library\\library.h",
               "ToolTip": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.h",
               "RelativeToolTip": "library\\library.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-03T12:23:10.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "project.cpp",
               "DocumentMoniker": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\project\\project.cpp",
               "RelativeDocumentMoniker": "project\\project.cpp",
               "ToolTip": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\project\\project.cpp*",
               "RelativeToolTip": "project\\project.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T12:22:30.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "library.cpp",
               "DocumentMoniker": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.cpp",
               "RelativeDocumentMoniker": "library\\library.cpp",
-              "ToolTip": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.cpp*",
-              "RelativeToolTip": "library\\library.cpp*",
+              "ToolTip": "C:\\Users\\krparashkevov23\\source\\repos\\rabotavklass\\library\\library\\library.cpp",
+              "RelativeToolTip": "library\\library.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T12:21:17.984Z",

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\library",
+    "\\library\\library",
     "\\library\\project"
   ],
-  "SelectedNode": "\\library\\project\\project.cpp",
+  "SelectedNode": "\\library\\library\\library.cpp",
   "PreviewInSolutionExplorer": false
 }
